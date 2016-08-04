@@ -1,5 +1,6 @@
 # ACFinalAssessment_Q1
-var totalOdd = 0
-for odd in 1...100 where odd % 2 == 1 {
-    totalOdd += odd
-}
+create a variable called totalOdd
+set totalOdd to 0
+make a for in loop where num % 2 == 1, totalOdd += num
+
+
